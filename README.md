@@ -1,4 +1,4 @@
-remote-assets-bundle
+Remote Assets Bundle
 ====================
 
-A symfony2 console command that copies a remote file to the public assets directory.
+A Symfony2 console command that copies a remote file to the public assets directory.
